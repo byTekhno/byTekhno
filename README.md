@@ -15,15 +15,15 @@
 | Репозиторий | О чём | Результат |
 |---|---|---|
 | [saucedemo-qa](https://github.com/byTekhno/saucedemo-qa) | Ручное тестирование Sauce Demo (web) | Smoke **14/14** · run **Pass 35 / Fail 2 / Blocked 1** · баги BUG-004…008 |
-| [testgrow-internet-bank-qa](https://github.com/byTekhno/testgrow-internet-bank-qa) | Учебный интернет-банк (Test Grow) | Требования, тест-план, кейсы, прогоны, баг-репорты |
-| [cv](https://github.com/byTekhno/cv) | Резюме и сопроводительное | Markdown для GitHub / hh / откликов |
+| [testgrow-internet-bank-qa](https://github.com/byTekhno/testgrow-internet-bank-qa) | Учебный интернет-банк (Test Grow) | Smoke **3/2** · run **Pass 22 / Fail 10 / Blocked 3 / Skipped 3** · кейсы: авторизация, счета, перевод, регресс |
+| [cv](https://github.com/byTekhno/cv) | Резюме и сопроводительное | Markdown + [PDF](https://github.com/byTekhno/cv/blob/main/resume.pdf) |
 
 ---
 
 ## Навыки
 
 ```text
-Тестирование   функциональное · smoke / regress · юзабилити / совместимость (база)
+Тестирование   функциональное · модульное · интеграционное · системное · сквозное · альфа/бета · приёмочное · регресс · smoke · юзабилити · black/white box
 Тест-дизайн    EP · BVA · Decision Table · Pairwise · State Transition
 Документация   тест-кейсы · чек-листы · баг-репорты · test runs
 Инструменты    DevTools · Jira · Qase · TestIT · Git / GitHub
