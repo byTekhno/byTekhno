@@ -16,7 +16,7 @@ Andrwhat86@gmail.com · [Telegram](https://t.me/byTekhno) · [Резюме (cv)]
 |---|---|---|
 | [saucedemo-qa](https://github.com/byTekhno/saucedemo-qa) | Ручное тестирование Sauce Demo (web) | Smoke **14/14** · run **Pass 35 / Fail 2 / Blocked 1** · баги BUG-004…008 |
 | [testgrow-internet-bank-qa](https://github.com/byTekhno/testgrow-internet-bank-qa) | Учебный интернет-банк (Test Grow) | Smoke **3/2** · run **Pass 22 / Fail 10 / Blocked 3 / Skipped 3** · кейсы: авторизация, счета, перевод, регресс |
-| [cv](https://github.com/byTekhno/cv) | Резюме и сопроводительное | Markdown + [PDF](https://github.com/byTekhno/cv/blob/main/resume.pdf) |
+| [cv](https://github.com/byTekhno/cv) | Резюме и сопроводительное | Markdown + [скачать PDF](https://github.com/byTekhno/cv/releases/download/v1.0/resume.pdf) |
 
 ---
 
