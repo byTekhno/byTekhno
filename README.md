@@ -6,7 +6,7 @@
 Пишу тест-кейсы, чек-листы и баг-репорты. Применяю тест-дизайн (EP, BVA, Decision Table, Pairwise, State Transition).  
 Вижу QA не как «проверку в конце», а как участие в процессе: требования → сценарии → проверки → риски до релиза.
 
-[Email](mailto:Andrwhat86@gmail.com) · [Telegram](https://t.me/byTekhno) · [Резюме (cv)](https://github.com/byTekhno/cv)
+[Email](Andrwhat86@gmail.com) · [Telegram](https://t.me/byTekhno) · [Резюме (cv)](https://github.com/byTekhno/cv)
 
 ---
 
