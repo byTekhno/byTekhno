@@ -15,7 +15,7 @@ Andrwhat86@gmail.com · [Telegram](https://t.me/byTekhno) · [Резюме (cv)]
 | Репозиторий | О чём | Результат |
 |---|---|---|
 | [saucedemo-qa](https://github.com/byTekhno/saucedemo-qa) | Ручное тестирование Sauce Demo (web) | Smoke **14/14** · run **Pass 35 / Fail 2 / Blocked 1** · баги BUG-004…008 |
-| [testgrow-internet-bank-qa](https://github.com/byTekhno/testgrow-internet-bank-qa) | Учебный интернет-банк (Test Grow) | Smoke **3/2** · run **Pass 22 / Fail 10 / Blocked 3 / Skipped 3** · кейсы: авторизация, счета, перевод, регресс. Пример баг-репорта → [BUG-006][(bug-reports/BUG-006-ruble-limit-boundary-transfer-allowed.md)](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-006-ruble-limit-boundary-transfer-allowed.md) |
+| [testgrow-internet-bank-qa](https://github.com/byTekhno/testgrow-internet-bank-qa) | Учебный интернет-банк (Test Grow) | Smoke **3/2** · run **Pass 22 / Fail 10 / Blocked 3 / Skipped 3** · кейсы: авторизация, счета, перевод, регресс. Пример баг-репорта → [BUG-006][![View Bug Report](https://img.shields.io/badge/View-BUG--006-red?style=for-the-badge)](bug-reports/BUG-006-ruble-limit-boundary-transfer-allowed.md) |
 | [cv](https://github.com/byTekhno/cv) | Резюме и сопроводительное | Markdown + [скачать PDF](https://github.com/byTekhno/cv/releases/download/v1.0/resume.pdf) |
 
 ---
