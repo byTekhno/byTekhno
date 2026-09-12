@@ -1,3 +1,4 @@
+[🇷🇺 Русский](README.md) · 🇬🇧 English
 # Hi, I'm Andrew
 
 **Junior Manual QA** · looking for an internship / junior role on a product team
