@@ -19,8 +19,6 @@ Andrwhat86@gmail.com · [Telegram](https://t.me/byTekhno) · [Резюме (cv)]
 
 [![View Bug Report](https://img.shields.io/badge/View-BUG--006-critical?style=for-the-badge)](bug-reports/BUG-006-ruble-limit-boundary-transfer-allowed.md)
 
-| Поле | Значение |
-... |
 | [cv](https://github.com/byTekhno/cv) | Резюме и сопроводительное | Markdown + [скачать PDF](https://github.com/byTekhno/cv/releases/download/v1.0/resume.pdf) |
 
 ---
