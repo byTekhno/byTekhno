@@ -2,7 +2,7 @@
 # Hi, I'm Andrew
 
 **Junior Manual QA** · looking for an internship / junior role on a product team
-Oktyabrsky · remote · 20+ hours/week
+Ufa · remote · 20+ hours/week
 
 I write test cases, checklists and bug reports. I apply test design techniques (EP, BVA, Decision Table, Pairwise, State Transition).
 I see QA not as "checking at the end" but as being part of the process: requirements → scenarios → checks → risk mitigation before release.
